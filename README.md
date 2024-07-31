@@ -1,1 +1,3 @@
 # FroggerPlayer
+
+Developed a reinforcement learning (RL) agent for the classic arcade game Frogger using Python Arcade. The project involved implementing Q-learning to train the agent to navigate a frog across a busy road and river, avoiding obstacles, and reaching the home row within a time limit. Key components included designing an effective state representation for the Q-learning algorithm and balancing exploration versus exploitation. The agent was tested across various difficulty levels, showing improved performance in navigating the game's challenges and optimizing its path to the home row.
